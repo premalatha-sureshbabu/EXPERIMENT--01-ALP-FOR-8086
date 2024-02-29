@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :
-Roll no 
-Date of experiment :
+Name :S.Prema Latha
+Roll no : 212222230112
+Date of experiment :29.02.2024
 
 
 
